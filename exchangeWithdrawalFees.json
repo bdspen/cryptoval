@@ -1,0 +1,1802 @@
+﻿{
+	"1ST": {
+		"Bittrex": 3.5,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"2GIVE": {
+		"Bittrex": 0.01,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"8BIT": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ABY": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ADA": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ADC": {
+		"Bittrex": 2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ADT": {
+		"Bittrex": 31,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ADX": {
+		"Bittrex": 1.85,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"AEON": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"AGRS": {
+		"Bittrex": 5,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"AM": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"AMP": {
+		"Bittrex": 5,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"AMS": {
+		"Bittrex": 1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ANT": {
+		"Bittrex": 0.7,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"APEX": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"APX": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ARB": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ARDR": {
+		"Bittrex": 2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ARK": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"AST": {
+		"Bittrex": null,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 4
+	},
+	"AUR": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BAT": {
+		"Bittrex": 6,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BAY": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BCC": {
+		"Bittrex": 0.001,
+		"Kraken": 0.001,
+		"Bithumb": 0.005,
+		"Binance": null
+	},
+	"BCY": {
+		"Bittrex": 5,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BITB": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BITCNY": {
+		"Bittrex": 1.5,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BITS": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BITZ": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BLC": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BLITZ": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BLK": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BLOCK": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BNB": {
+		"Bittrex": null,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 1
+	},
+	"BNT": {
+		"Bittrex": 0.6,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 0.6
+	},
+	"BOB": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BQX": {
+		"Bittrex": null,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 2
+	},
+	"BRK": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BRX": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BSD": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BSTY": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BTA": {
+		"Bittrex": 1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BTC": {
+		"Bittrex": 0.001,
+		"Kraken": 0.001,
+		"Bithumb": 0.0005,
+		"Binance": 0.0005
+	},
+	"BTCD": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BTS": {
+		"Bittrex": 5,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BURST": {
+		"Bittrex": 2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"BYC": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"CANN": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"CCN": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"CFI": {
+		"Bittrex": 9,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"CLAM": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"CLOAK": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"CLUB": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"COVAL": {
+		"Bittrex": 200,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"CPC": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"CRB": {
+		"Bittrex": 2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"CRBIT": {
+		"Bittrex": 1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"CRW": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"CRYPT": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"CTR": {
+		"Bittrex": null,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 1
+	},
+	"CURE": {
+		"Bittrex": 0.0002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"CVC": {
+		"Bittrex": 3,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"DAR": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"DASH": {
+		"Bittrex": 0.002,
+		"Kraken": 0.005,
+		"Bithumb": 0.01,
+		"Binance": 0.002
+	},
+	"DCR": {
+		"Bittrex": 0.03,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"DCT": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"DGB": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"DGC": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"DGD": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"DMD": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"DNT": {
+		"Bittrex": 25,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 30
+	},
+	"DOGE": {
+		"Bittrex": 2,
+		"Kraken": 2,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"DOPE": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"DRACO": {
+		"Bittrex": 2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"DTB": {
+		"Bittrex": 5,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"DTC": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"DYN": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"EBST": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"EDG": {
+		"Bittrex": 1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"EFL": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"EGC": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"EMC": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"EMC2": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ENG": {
+		"Bittrex": null,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 2
+	},
+	"ENRG": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"EOS": {
+		"Bittrex": null,
+		"Kraken": 0.5,
+		"Bithumb": null,
+		"Binance": 2
+	},
+	"ERC": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ETC": {
+		"Bittrex": 0.01,
+		"Kraken": 0.005,
+		"Bithumb": 0.01,
+		"Binance": 0.01
+	},
+	"ETH": {
+		"Bittrex": 0.005,
+		"Kraken": 0.005,
+		"Bithumb": 0.01,
+		"Binance": 0.005
+	},
+	"EXCL": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"EXP": {
+		"Bittrex": 0.01,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"FAIR": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"FC2": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"FCT": {
+		"Bittrex": 0.01,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"FLDC": {
+		"Bittrex": 150,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"FLO": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"FRK": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"FSC2": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"FTC": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"FUN": {
+		"Bittrex": 54,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 50
+	},
+	"GAM": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"GAME": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"GAS": {
+		"Bittrex": null,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 0
+	},
+	"GBG": {
+		"Bittrex": 0.01,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"GBYTE": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"GCR": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"GEMZ": {
+		"Bittrex": 5,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"GEO": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"GHC": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"GLD": {
+		"Bittrex": 0.0002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"GNO": {
+		"Bittrex": 0.01,
+		"Kraken": 0.01,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"GNT": {
+		"Bittrex": 4.5,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"GOLOS": {
+		"Bittrex": 0.01,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"GP": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"GRC": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"GRS": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"GRT": {
+		"Bittrex": 2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"GUP": {
+		"Bittrex": 7,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"HKG": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"HMQ": {
+		"Bittrex": 11,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"HYPER": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"HZ": {
+		"Bittrex": 2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ICN": {
+		"Bittrex": null,
+		"Kraken": 0.2,
+		"Bithumb": null,
+		"Binance": 0.5
+	},
+	"INCNT": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"INFX": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"IOC": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ION": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"IOP": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"IOTA": {
+		"Bittrex": null,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 0
+	},
+	"J": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"KMD": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"KNC": {
+		"Bittrex": null,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 1
+	},
+	"KORE": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"KR": {
+		"Bittrex": 0.01,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"KRW": {
+		"Bittrex": null,
+		"Kraken": null,
+		"Bithumb": 1000,
+		"Binance": null
+	},
+	"LBC": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"LGD": {
+		"Bittrex": 0.95,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"LINK": {
+		"Bittrex": null,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 5
+	},
+	"LMC": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"LSK": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"LTC": {
+		"Bittrex": 0.01,
+		"Kraken": 0.02,
+		"Bithumb": 0.01,
+		"Binance": 0.001
+	},
+	"LUN": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"LXC": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"MAID": {
+		"Bittrex": 2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"MANA": {
+		"Bittrex": 2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"MAX": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"MCO": {
+		"Bittrex": 0.15,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 0.15
+	},
+	"MDA": {
+		"Bittrex": null,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 0.5
+	},
+	"MEC": {
+		"Bittrex": 1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"MEME": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"METAL": {
+		"Bittrex": 20,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"MLN": {
+		"Bittrex": 0.02,
+		"Kraken": 0.003,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"MND": {
+		"Bittrex": 1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"MONA": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"MTH": {
+		"Bittrex": null,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 10
+	},
+	"MTL": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 0.15
+	},
+	"MTR": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"MUE": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"MUSIC": {
+		"Bittrex": 0.01,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"MYST": {
+		"Bittrex": 1.4,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"MZC": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"NAUT": {
+		"Bittrex": 2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"NAV": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"NBT": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"NEO": {
+		"Bittrex": 0.025,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 0
+	},
+	"NEOS": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"NET": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"NEU": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"NLG": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"NMR": {
+		"Bittrex": 0.05,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"NTRN": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"NXC": {
+		"Bittrex": 5,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"NXS": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"NXT": {
+		"Bittrex": 2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"OAX": {
+		"Bittrex": null,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 2
+	},
+	"OC": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"OK": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"OMG": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 0.1
+	},
+	"OMNI": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ORB": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"PART": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"PAY": {
+		"Bittrex": 0.55,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"PDC": {
+		"Bittrex": 5,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"PINK": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"PIVX": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"PKB": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"POT": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"PPC": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"PRIME": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"PTC": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"PTOY": {
+		"Bittrex": 2.5,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"PXI": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"QRL": {
+		"Bittrex": 2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"QTUM": {
+		"Bittrex": 0.01,
+		"Kraken": null,
+		"Bithumb": 0.05,
+		"Binance": 0.01
+	},
+	"QWARK": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"RADS": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"RBY": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"RDD": {
+		"Bittrex": 2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"REP": {
+		"Bittrex": 0.1,
+		"Kraken": 0.01,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"RISE": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"RLC": {
+		"Bittrex": 2.5,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ROOT": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SAFEX": {
+		"Bittrex": 100,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SALT": {
+		"Bittrex": 2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 0.3
+	},
+	"SBD": {
+		"Bittrex": 0.01,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SC": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SCOT": {
+		"Bittrex": 5,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SCRT": {
+		"Bittrex": 1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SEQ": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SFR": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SHIFT": {
+		"Bittrex": 0.01,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SIB": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SLG": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SLING": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SLR": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SLS": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SNGLS": {
+		"Bittrex": 8,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 8
+	},
+	"SNRG": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SNT": {
+		"Bittrex": 50,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 50
+	},
+	"SOON": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SONM": {
+		"Bittrex": null,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 10
+	},
+	"SPHR": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SPR": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SPRTS": {
+		"Bittrex": 1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SSD": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"START": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"STEEM": {
+		"Bittrex": 0.01,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"STEPS": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"STORJ": {
+		"Bittrex": 2.5,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"STRAT": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 0.1
+	},
+	"STV": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SUB": {
+		"Bittrex": null,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 10
+	},
+	"SWIFT": {
+		"Bittrex": 2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SWING": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SWT": {
+		"Bittrex": 0.7,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SYNX": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"SYS": {
+		"Bittrex": 0.0002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"TES": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"THC": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"TIME": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"TIT": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"TKN": {
+		"Bittrex": 0.85,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"TKS": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"TRI": {
+		"Bittrex": 0.0002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"TRIG": {
+		"Bittrex": 5,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"TRK": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"TROLL": {
+		"Bittrex": 0.001,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"TRST": {
+		"Bittrex": 4,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"TRUST": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"TX": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"U": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"UBQ": {
+		"Bittrex": 0.01,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"UFO": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"UNB": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"UNIQ": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"UNIT": {
+		"Bittrex": 2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"UNO": {
+		"Bittrex": 0.0002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"USDT": {
+		"Bittrex": 5,
+		"Kraken": 5,
+		"Bithumb": null,
+		"Binance": 5
+	},
+	"UTC": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"VIA": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"VIOR": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"VIRAL": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"VOX": {
+		"Bittrex": 0.1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"VPN": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"VRC": {
+		"Bittrex": 0.0002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"VRM": {
+		"Bittrex": 0.4,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"VTC": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"VTR": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"WARP": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"WAVES": {
+		"Bittrex": 0.001,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"WINGS": {
+		"Bittrex": 2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"WTC": {
+		"Bittrex": null,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 0.2
+	},
+	"XAUR": {
+		"Bittrex": 7,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XBB": {
+		"Bittrex": 0.0002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XC": {
+		"Bittrex": 0.00002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XCO": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XCP": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XDN": {
+		"Bittrex": 0.01,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XDQ": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XEL": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XEM": {
+		"Bittrex": 4,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XLM": {
+		"Bittrex": 0.01,
+		"Kraken": 0.00002,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XMG": {
+		"Bittrex": 0.0002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XMR": {
+		"Bittrex": 0.04,
+		"Kraken": 0.05,
+		"Bithumb": 0.05,
+		"Binance": null
+	},
+	"XMY": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XPY": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XQN": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XRP": {
+		"Bittrex": 5,
+		"Kraken": 0.02,
+		"Bithumb": 1,
+		"Binance": null
+	},
+	"XSEED": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XST": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XTC": {
+		"Bittrex": 100,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XVC": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XVG": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 0.1
+	},
+	"XWC": {
+		"Bittrex": 0.2,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"XZC": {
+		"Bittrex": 0.02,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"YBC": {
+		"Bittrex": 1,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ZCL": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ZEC": {
+		"Bittrex": 0.005,
+		"Kraken": 0.0001,
+		"Bithumb": 0.001,
+		"Binance": null
+	},
+	"ZEN": {
+		"Bittrex": 0.002,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": null
+	},
+	"ZRX": {
+		"Bittrex": null,
+		"Kraken": null,
+		"Bithumb": null,
+		"Binance": 5
+	}
+}
