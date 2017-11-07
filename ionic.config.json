@@ -2,5 +2,13 @@
   "name": "myApp",
   "app_id": "512887ea",
   "type": "ionic-angular",
-  "integrations": {}
+  "proxies": [
+      {
+          "path": "/api",
+          "proxyUrl": "https://api.coinmarketcap.com/v1"
+      }
+  ],
+  "integrations": {
+    "cordova": {}
+  }
 }
