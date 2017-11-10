@@ -32,9 +32,10 @@ var HomePage = /** @class */ (function () {
         var _this = this;
         this.config = Config;
         console.log('ionViewDidLoad HomePage');
-        this.storage.getCoinResource()
+        this.storage.getWatchedCoins()
             .then(function (data) {
             _this.coins = data;
+            console.log("home coinsvvvvv");
             console.log(_this.coins);
         });
     };

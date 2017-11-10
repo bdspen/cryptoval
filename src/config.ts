@@ -1,6 +1,6 @@
 const Config = Object.freeze({
     
-    defaultWatchListCoins : ['BTC', 'ETH', 'LTC'],    
+    defaultWatchListCoins : ['bitcoin', 'ethereum', 'litecoin'],    
         
 });
     

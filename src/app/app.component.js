@@ -32,13 +32,12 @@ var MyApp = /** @class */ (function () {
     MyApp.prototype.initializeApp = function () {
         var _this = this;
         this.platform.ready().then(function () {
-            // Okay, so the platform is ready and our plugins are available.
-            // Here you can do any higher level native things you might need.
-            _this.storage.clearAllData();
+            // this.storage.clearAllData();
             _this.statusBar.styleDefault();
             _this.splashScreen.hide();
             _this.storage.hasData(Stores.coinResource);
-            _this.networking.requestCoinData();
+            console.log("init");
+            _this.networking.requestWatchListData();
         });
     };
     MyApp.prototype.openPage = function (page) {

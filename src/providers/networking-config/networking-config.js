@@ -11,11 +11,15 @@ import { Injectable } from '@angular/core';
 import 'rxjs/add/operator/map';
 var NetworkingConfigProvider = /** @class */ (function () {
     function NetworkingConfigProvider() {
-        this.serverURL = '/api';
+        this.serverURL = 'https://api.coinmarketcap.com/v1';
         this.ticker = '/ticker';
     }
-    NetworkingConfigProvider.prototype.tickerUrl = function () {
+    NetworkingConfigProvider.prototype.tickerUrl = function (param) {
         return this.serverURL + this.ticker;
+    };
+    NetworkingConfigProvider.prototype.createTickerUrls = function (coinIds) {
+        var _this = this;
+        return coinIds.map(function (coinId) { return _this.tickerUrl(coinId); });
     };
     NetworkingConfigProvider = __decorate([
         Injectable(),

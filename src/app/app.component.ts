@@ -33,13 +33,12 @@ export class MyApp {
 
   initializeApp() {
     this.platform.ready().then(() => {
-      // Okay, so the platform is ready and our plugins are available.
-      // Here you can do any higher level native things you might need.
-      this.storage.clearAllData();
+      // this.storage.clearAllData();
       this.statusBar.styleDefault();
       this.splashScreen.hide();
       this.storage.hasData(Stores.coinResource);
-      this.networking.requestCoinData();
+      console.log("init");
+      this.networking.requestWatchListData();
     });
   }
 

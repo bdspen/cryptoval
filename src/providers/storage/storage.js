@@ -20,11 +20,21 @@ var StorageProvider = /** @class */ (function () {
     function StorageProvider(storage) {
         this.storage = storage;
     }
+    /* Coin watchlist ----------------------------------------*/
+    StorageProvider.prototype.getWatchedCoins = function () {
+        return this.storage.get(Stores.watched);
+    };
     StorageProvider.prototype.setWatchedCoins = function (value) {
         return this.storage.set(Stores.watched, value);
     };
-    StorageProvider.prototype.clearAllData = function () {
-        this.storage.clear();
+    /* All coin list/coin resource -----------------------------*/
+    StorageProvider.prototype.setCoinResource = function (value) {
+        console.log("setting coin resource");
+        return this.storage.set(Stores.coinResource, value);
+    };
+    StorageProvider.prototype.getCoinResource = function () {
+        console.log("getting coin resource");
+        return this.storage.get(Stores.coinResource);
     };
     StorageProvider.prototype.getWatchedCoinsAndSync = function () {
         var _this = this;
@@ -37,20 +47,14 @@ var StorageProvider = /** @class */ (function () {
             _this.setWatchedCoins(updatedCoins);
         });
     };
+    StorageProvider.prototype.clearAllData = function () {
+        this.storage.clear();
+    };
     StorageProvider.prototype.hasData = function (store) {
         this.storage.keys()
             .then(function (keys) {
             console.log(keys);
         });
-    };
-    StorageProvider.prototype.getWatchedCoins = function () {
-        return this.storage.get(Stores.watched);
-    };
-    StorageProvider.prototype.setCoinResource = function (value) {
-        return this.storage.set(Stores.coinResource, value);
-    };
-    StorageProvider.prototype.getCoinResource = function () {
-        return this.storage.get(Stores.coinResource);
     };
     StorageProvider.prototype.updateSelectedCoins = function (coins, resource) {
         coins.forEach(function (coin, i) {

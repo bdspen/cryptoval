@@ -11,8 +11,14 @@ export class NetworkingConfigProvider {
 
   constructor () { }
 
-  tickerUrl(): string {
+  tickerUrl(param?: string): string {
     return this.serverURL + this.ticker;
   }
+
+  createTickerUrls(coinIds: string[]): string[] {
+    return coinIds.map((coinId: string) => this.tickerUrl(coinId));  
+  }
+
+
 
 }

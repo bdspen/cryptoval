@@ -33,7 +33,7 @@ export class HomePage {
   ionViewDidLoad() {
     this.config = Config; 
     console.log('ionViewDidLoad HomePage');
-    this.storage.getCoinResource()
+    this.storage.getWatchedCoins()
       .then(data => {
         this.coins = data;
         console.log("home coinsvvvvv");

@@ -14,13 +14,26 @@ export class StorageProvider {
 
   constructor(private storage: Storage) {}
 
+  /* Coin watchlist ----------------------------------------*/
+  getWatchedCoins(): Promise<Coin[]>{
+    return this.storage.get(Stores.watched);
+  }
+
   setWatchedCoins(value: Array<Coin>): Promise<any> {
     return this.storage.set(Stores.watched, value);
   }
 
-  clearAllData(): void {
-      this.storage.clear();
-  }
+
+  /* All coin list/coin resource -----------------------------*/
+  setCoinResource(value: Array<Coin>): Promise<any> {
+    console.log("setting coin resource");
+      return this.storage.set(Stores.coinResource, value);
+    }
+  
+    getCoinResource(): Promise<Coin[]> {
+      console.log("getting coin resource");
+      return this.storage.get(Stores.coinResource);
+    }
 
   getWatchedCoinsAndSync(): void {
     Promise.all([
@@ -33,25 +46,15 @@ export class StorageProvider {
     });
   }
 
+  clearAllData(): void {
+    this.storage.clear();
+  }
+
   hasData(store: Stores): void {
     this.storage.keys()
     .then(keys => {
       console.log(keys)
     });
-  }
-
-  getWatchedCoins(): Promise<Coin[]>{
-    return this.storage.get(Stores.watched);
-  }
-
-  setCoinResource(value: Array<Coin>): Promise<any> {
-  console.log("setting coin resource");
-    return this.storage.set(Stores.coinResource, value);
-  }
-
-  getCoinResource(): Promise<Coin[]> {
-      console.log("getting coin resource");
-    return this.storage.get(Stores.coinResource);
   }
 
   private updateSelectedCoins(coins: Array<Coin>, resource: Array<Coin>): Array<Coin> {

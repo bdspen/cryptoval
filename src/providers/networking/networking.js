@@ -12,29 +12,67 @@ import { Http } from '@angular/http';
 import { NetworkingConfigProvider } from '../networking-config/networking-config';
 import { Coin } from '../../models/Coin';
 import { StorageProvider } from '../storage/storage';
+import { forkJoin } from "rxjs/observable/forkJoin";
+import 'rxjs/add/observable/fromPromise';
 import 'rxjs/add/operator/map';
+import 'rxjs/add/operator/mergeMap';
+import { Config } from '../../config';
+import { fromPromise } from 'rxjs/observable/fromPromise';
 var NetworkingProvider = /** @class */ (function () {
-    function NetworkingProvider(http, config, storageService) {
+    function NetworkingProvider(http, networkConfig, storage) {
         this.http = http;
-        this.config = config;
-        this.storageService = storageService;
+        this.networkConfig = networkConfig;
+        this.storage = storage;
     }
     NetworkingProvider.prototype.getCoinList = function () {
-        var url = this.config.tickerUrl();
+        var url = this.networkConfig.tickerUrl();
         return this.http.get(url)
-            .map(function (res) {
-            console.log("getcoinlist");
-            console.log(res.json());
-            return res.json();
+            .map(function (res) { return res.json(); });
+    };
+    NetworkingProvider.prototype.getWatchList = function (coinIds) {
+        var _this = this;
+        console.log("getwatchedcoins");
+        var getWatchedCoins = this.storage.getWatchedCoins()
+            .then(function (coins) {
+            console.log("coins " + coins);
+            var coinIds;
+            if (!coins)
+                coinIds = Config.defaultWatchListCoins;
+            if (Array.isArray(coins))
+                coinIds = coins.map(function (coin) { return coin.id; });
+            var urlQueue = _this.networkConfig.createTickerUrls(coinIds);
+            var requests = urlQueue.map(function (url) { return _this.http.get(url); });
+            return forkJoin(requests);
+        })
+            .catch(function (err) { return console.error(err); });
+        fromPromise(getWatchedCoins)
+            .mergeMap(function (responses) {
+            return responses.mergeMap(function (data) {
+                return data.map(function (d) {
+                    console.log("json");
+                    console.log(d.json());
+                });
+            });
         });
     };
     NetworkingProvider.prototype.requestCoinData = function () {
         var _this = this;
         this.getCoinList().subscribe(function (data) {
             var coins = data.map(function (coin) { return new Coin(coin); });
-            console.log(coins);
-            _this.storageService.setCoinResource(coins);
+            _this.storage.setCoinResource(coins);
         });
+    };
+    // data?: Observable<TickerResponseCoin[]>
+    NetworkingProvider.prototype.requestWatchListData = function () {
+        console.log("requestWatchListData");
+        this.getWatchList();
+        // data.map((coins: TickerResponseCoin[]) => {
+        //   return coins.map((coin: TickerResponseCoin) => new Coin(coin))
+        // })
+        // .catch(error => Observable.of(`Error: ${error}`))
+        // .subscribe((coins: Coin[]) => {
+        //   this.storage.setWatchedCoins(coins);
+        // });
     };
     NetworkingProvider = __decorate([
         Injectable(),

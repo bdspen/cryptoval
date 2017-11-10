@@ -1,5 +1,5 @@
 var Config = Object.freeze({
-    defaultWatchListCoins: ['BTC', 'ETH', 'LTC'],
+    defaultWatchListCoins: ['bitcoin', 'ethereum', 'litecoin'],
 });
 export { Config };
 //# sourceMappingURL=config.js.map
